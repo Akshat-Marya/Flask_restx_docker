@@ -1,4 +1,4 @@
-# AWS online interaction through
+# AWS online deployment at
 http://34.224.169.99:8080/api/
 
 
